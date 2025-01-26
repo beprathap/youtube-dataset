@@ -1,4 +1,4 @@
-API_KEY = 'AIzaSyBp04SW2dUVoqpnNiG10IQwTn60ejwYuqI'
+API_KEY = ''
 CHANNEL_IDS = ['UClFSU9_bUb4Rc6OYfTt5SPw', # Ask Me Anything: Philip DeFranco Show
                 'UCX6OQ3DkcsbYNE6H8uQQuVA', # Challenge: MrBeast
                 'UCsooa4yRKGN_zEE8iknghZA', # Educational: Ted-Ed
