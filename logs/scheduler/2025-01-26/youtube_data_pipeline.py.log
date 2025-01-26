@@ -1,0 +1,50 @@
+[2025-01-26T14:50:21.957-0600] {processor.py:186} INFO - Started process (PID=5228) to work on /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:50:21.957-0600] {processor.py:914} INFO - Processing file /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py for tasks to queue
+[2025-01-26T14:50:21.958-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:21.958-0600] {dagbag.py:588} INFO - Filling up the DagBag from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:50:22.047-0600] {processor.py:925} INFO - DAG(s) 'youtube_data_pipeline' retrieved from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:50:22.126-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:22.126-0600] {override.py:1901} INFO - Created Permission View: can delete on DAG:youtube_data_pipeline
+[2025-01-26T14:50:22.129-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:22.129-0600] {override.py:1901} INFO - Created Permission View: can edit on DAG:youtube_data_pipeline
+[2025-01-26T14:50:22.132-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:22.131-0600] {override.py:1901} INFO - Created Permission View: can read on DAG:youtube_data_pipeline
+[2025-01-26T14:50:22.133-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:22.133-0600] {override.py:1901} INFO - Created Permission View: can create on DAG Run:youtube_data_pipeline
+[2025-01-26T14:50:22.136-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:22.136-0600] {override.py:1901} INFO - Created Permission View: can delete on DAG Run:youtube_data_pipeline
+[2025-01-26T14:50:22.138-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:22.138-0600] {override.py:1901} INFO - Created Permission View: menu access on DAG Run:youtube_data_pipeline
+[2025-01-26T14:50:22.145-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:22.145-0600] {override.py:1901} INFO - Created Permission View: can read on DAG Run:youtube_data_pipeline
+[2025-01-26T14:50:22.145-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:22.145-0600] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-26T14:50:22.150-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:22.150-0600] {dag.py:3262} INFO - Creating ORM DAG for youtube_data_pipeline
+[2025-01-26T14:50:22.150-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:22.150-0600] {dag.py:4180} INFO - Setting next_dagrun for youtube_data_pipeline to None, run_after=None
+[2025-01-26T14:50:22.162-0600] {processor.py:208} INFO - Processing /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py took 0.206 seconds
+[2025-01-26T14:50:53.447-0600] {processor.py:186} INFO - Started process (PID=5258) to work on /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:50:53.447-0600] {processor.py:914} INFO - Processing file /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py for tasks to queue
+[2025-01-26T14:50:53.448-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:53.448-0600] {dagbag.py:588} INFO - Filling up the DagBag from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:50:53.527-0600] {processor.py:925} INFO - DAG(s) 'youtube_data_pipeline' retrieved from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:50:53.562-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:53.562-0600] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-26T14:50:53.567-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:50:53.567-0600] {dag.py:4180} INFO - Setting next_dagrun for youtube_data_pipeline to None, run_after=None
+[2025-01-26T14:50:53.571-0600] {processor.py:208} INFO - Processing /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py took 0.126 seconds
+[2025-01-26T14:51:24.738-0600] {processor.py:186} INFO - Started process (PID=5306) to work on /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:51:24.740-0600] {processor.py:914} INFO - Processing file /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py for tasks to queue
+[2025-01-26T14:51:24.740-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:51:24.740-0600] {dagbag.py:588} INFO - Filling up the DagBag from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:51:24.819-0600] {processor.py:925} INFO - DAG(s) 'youtube_data_pipeline' retrieved from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:51:24.852-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:51:24.852-0600] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-26T14:51:24.856-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:51:24.856-0600] {dag.py:4180} INFO - Setting next_dagrun for youtube_data_pipeline to None, run_after=None
+[2025-01-26T14:51:24.861-0600] {processor.py:208} INFO - Processing /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py took 0.124 seconds
+[2025-01-26T14:51:56.194-0600] {processor.py:186} INFO - Started process (PID=5318) to work on /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:51:56.195-0600] {processor.py:914} INFO - Processing file /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py for tasks to queue
+[2025-01-26T14:51:56.195-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:51:56.195-0600] {dagbag.py:588} INFO - Filling up the DagBag from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:51:56.284-0600] {processor.py:925} INFO - DAG(s) 'youtube_data_pipeline' retrieved from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:51:56.318-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:51:56.318-0600] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-26T14:51:56.321-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:51:56.321-0600] {dag.py:4180} INFO - Setting next_dagrun for youtube_data_pipeline to None, run_after=None
+[2025-01-26T14:51:56.326-0600] {processor.py:208} INFO - Processing /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py took 0.134 seconds
+[2025-01-26T14:52:27.543-0600] {processor.py:186} INFO - Started process (PID=5331) to work on /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:52:27.544-0600] {processor.py:914} INFO - Processing file /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py for tasks to queue
+[2025-01-26T14:52:27.544-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:52:27.544-0600] {dagbag.py:588} INFO - Filling up the DagBag from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:52:27.631-0600] {processor.py:925} INFO - DAG(s) 'youtube_data_pipeline' retrieved from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:52:27.664-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:52:27.664-0600] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-26T14:52:27.668-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:52:27.668-0600] {dag.py:4180} INFO - Setting next_dagrun for youtube_data_pipeline to None, run_after=None
+[2025-01-26T14:52:27.673-0600] {processor.py:208} INFO - Processing /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py took 0.132 seconds
+[2025-01-26T14:52:58.895-0600] {processor.py:186} INFO - Started process (PID=5348) to work on /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:52:58.897-0600] {processor.py:914} INFO - Processing file /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py for tasks to queue
+[2025-01-26T14:52:58.897-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:52:58.897-0600] {dagbag.py:588} INFO - Filling up the DagBag from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:52:58.984-0600] {processor.py:925} INFO - DAG(s) 'youtube_data_pipeline' retrieved from /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py
+[2025-01-26T14:52:59.018-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:52:59.017-0600] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-26T14:52:59.021-0600] {logging_mixin.py:190} INFO - [2025-01-26T14:52:59.021-0600] {dag.py:4180} INFO - Setting next_dagrun for youtube_data_pipeline to None, run_after=None
+[2025-01-26T14:52:59.026-0600] {processor.py:208} INFO - Processing /Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py took 0.132 seconds

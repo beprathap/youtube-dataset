@@ -1,0 +1,46 @@
+[2025-01-26T14:50:21.239-0600] {manager.py:483} INFO - Processing files using up to 1 processes at a time 
+[2025-01-26T14:50:21.239-0600] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-01-26T14:50:21.240-0600] {manager.py:485} INFO - Checking for new files in /Users/beprathap/workspace/youtube-dataset/dags every 300 seconds
+[2025-01-26T14:50:21.240-0600] {manager.py:821} INFO - Searching for files in /Users/beprathap/workspace/youtube-dataset/dags
+[2025-01-26T14:50:21.243-0600] {manager.py:824} INFO - There are 1 files in /Users/beprathap/workspace/youtube-dataset/dags
+[2025-01-26T14:50:50.570-0600] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py                           1           0  1.01s           2025-01-26T20:50:22                      43
+================================================================================
+[2025-01-26T14:51:20.652-0600] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py                           1           0  0.89s           2025-01-26T20:50:53                      10
+================================================================================
+[2025-01-26T14:51:50.742-0600] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py                           1           0  0.90s           2025-01-26T20:51:24                      10
+================================================================================
+[2025-01-26T14:52:20.833-0600] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py                           1           0  1.06s           2025-01-26T20:51:56                      10
+================================================================================
+[2025-01-26T14:52:50.923-0600] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/Users/beprathap/workspace/youtube-dataset/dags/youtube_data_pipeline.py                           1           0  1.07s           2025-01-26T20:52:27                      10
+================================================================================
+[2025-01-26T14:53:10.754-0600] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
