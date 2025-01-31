@@ -4,9 +4,6 @@ from airflow.operators.python import PythonOperator
 from airflow.utils.dates import days_ago
 from airflowYoutube import youtube_dataset_extractor
 
-def print_hello():
-    print("Hello world from Airflow!")
-
 # Define default arguments for the DAG
 default_args = {
     'owner': 'airflow',
@@ -27,16 +24,10 @@ with DAG(
     catchup=False,
 ) as dag:
 
-    # # Task 1: Extract YouTube data
-    # run_youtube_pipeline = PythonOperator(
-    #     task_id="run_youtube_data_extraction",
-    #     python_callable=youtube_dataset_extractor,
-    # )
-
     # Task 1: Extract YouTube data
     run_youtube_pipeline = PythonOperator(
-        task_id="print_hello",
-        python_callable=print_hello,
+        task_id="run_youtube_data_extraction",
+        python_callable=youtube_dataset_extractor,
     )
 
     # No dependencies to define since there's only one task
